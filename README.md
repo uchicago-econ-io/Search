@@ -13,8 +13,8 @@ This repository is meant to make replication work in search economics more acces
 
 It is especially useful for:
 
-- researchers studying consumer search and information frictions  
-- students working on industrial organization and applied microeconomics  
+- researchers   
+- students   
 - instructors building replication-based coursework  
 
 ---
