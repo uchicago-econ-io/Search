@@ -24,8 +24,8 @@ It is especially useful for:
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Babur De los Santos, Ali Hortaçsu, Matthijs R. Wildenbeest | *Testing Models of Consumer Search Using Data on Web Browsing and Purchasing Behavior* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E112561V1) |
-| Charles Hodgson, Gregory Lewis | *You Can Lead a Horse to Water: Spatial Learning and Path Dependence in Consumer Search* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15007343) |
 | Sumit Agarwal, John Grigsby, Ali Hortaçsu, Gregor Matvos, Amit Seru, Vincent Yao | *Searching for Approval* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/10713249) |
+| Charles Hodgson, Gregory Lewis | *You Can Lead a Horse to Water: Spatial Learning and Path Dependence in Consumer Search* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15007343) |
 ---
 
 ## Additional Information
