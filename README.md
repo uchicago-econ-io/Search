@@ -24,6 +24,7 @@ It is especially useful for:
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Babur De los Santos, Ali Hortaçsu, Matthijs R. Wildenbeest | *Testing Models of Consumer Search Using Data on Web Browsing and Purchasing Behavior* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E112561V1) |
+| José Luis Moraga-González, Zsolt Sándor, Matthijs R. Wildenbeest | *Consumer Search and Prices in the Automobile Market* | *The Review of Economic Studies* | 2023 | [Open](https://zenodo.org/records/6561213) |
 | Sumit Agarwal, John Grigsby, Ali Hortaçsu, Gregor Matvos, Amit Seru, Vincent Yao | *Searching for Approval* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/10713249) |
 | Charles Hodgson, Gregory Lewis | *You Can Lead a Horse to Water: Spatial Learning and Path Dependence in Consumer Search* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15007343) |
 | Giulia Brancaccio, Karam Kang | *Search Frictions and Product Design in the Municipal Bond Market* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15778726) |
