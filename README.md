@@ -21,6 +21,8 @@ It is especially useful for:
 
 ## 📦 Replication Packages
 
+## Top 5
+
 | Authors | Paper | Journal | Year | Package |
 |--------|-------|---------|------|---------|
 | Babur De los Santos, Ali Hortaçsu, Matthijs R. Wildenbeest | *Testing Models of Consumer Search Using Data on Web Browsing and Purchasing Behavior* | *American Economic Review* | 2012 | [Open](https://doi.org/10.3886/E112561V1) |
@@ -28,7 +30,16 @@ It is especially useful for:
 | Sumit Agarwal, John Grigsby, Ali Hortaçsu, Gregor Matvos, Amit Seru, Vincent Yao | *Searching for Approval* | *Econometrica* | 2024 | [Open](https://zenodo.org/records/10713249) |
 | Charles Hodgson, Gregory Lewis | *You Can Lead a Horse to Water: Spatial Learning and Path Dependence in Consumer Search* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15007343) |
 | Giulia Brancaccio, Karam Kang | *Search Frictions and Product Design in the Municipal Bond Market* | *Econometrica* | 2025 | [Open](https://zenodo.org/records/15778726) |
----
+
+## Other
+
+| Authors | Paper | Journal | Year | Package |
+|--------|-------|---------|------|---------|
+| Kenneth Hendricks, Alan Sorensen, Thomas Wiseman | *Observational Learning and Demand for Search Goods* | *American Economic Journal: Microeconomics* | 2012 | [Open](https://doi.org/10.3886/E114393V1) |
+| Anja Sautmann | *Age-Dependent Payoffs and Assortative Matching by Age in a Market with Search* | *American Economic Journal: Microeconomics* | 2017 | [Open](https://doi.org/10.3886/E114346V1) |
+| David Byrne, Nicolas de Roos | *Start-up Search Costs* | *American Economic Journal: Microeconomics* | 2022 | [Open](https://doi.org/10.3886/E122821V1) |
+| Heiko Karle, Florian Kerzenmacher, Heiner Schumacher, Frank Verboven | *Search Costs and Context Effects* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E207961V1) |
+| Michèle Bélot, Philipp Kircher, Paul Müller | *Eliciting Time Preferences When Income and Consumption Vary: Theory, Validation, and Application to Job Search* | *American Economic Journal: Microeconomics* | 2025 | [Open](https://doi.org/10.3886/E198281V1) |
 
 ## Additional Information
 
